@@ -1,0 +1,7 @@
+.root{
+  background-color: black;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
